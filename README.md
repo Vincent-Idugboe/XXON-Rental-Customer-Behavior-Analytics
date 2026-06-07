@@ -42,8 +42,6 @@ Gen Z is the dominant purchasing demographic — marketing spend and product pos
 - Home and Kitchen
 - Others
 
-Slicer functionality allows teams to isolate any category and see cross-segment performance simultaneously.
-
 ---
 
 ### 3. Most Common Product Search Methods
@@ -57,8 +55,6 @@ Top Search Methods area chart breaks down how customers find products — across
 | Sometimes | 42% |
 | Yes — Regularly | 38% |
 | No | 20% |
-
-Customers who browse regularly are most responsive to personalised recommendations.
 
 ---
 
@@ -90,8 +86,8 @@ Cart abandonment is highest among **category browsers** — suggesting broad sea
 - **Gen Z drives nearly half of all purchases** — prioritise this demographic in all campaigns
 - **Category browsers abandon carts most** — keyword searchers convert at higher rates
 - **Female customers are the primary audience** at 58% purchase frequency
-- **56 customers purchase multiple times a week** — highest-value loyal segment requiring dedicated retention strategy
-- **203 customers purchase only a few times a month** — significant opportunity to increase frequency through targeted promotions
+- **56 customers purchase multiple times a week** — highest-value loyal segment
+- **203 customers purchase only a few times a month** — significant opportunity to increase frequency
 
 ---
 
@@ -119,4 +115,4 @@ This project demonstrates the ability to translate raw customer data into a stru
 **Vincent Idugboe**
 Data & Business Intelligence Analyst | Sheffield, UK
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-idugboe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idugboe-vincent-)
